@@ -1,0 +1,30 @@
+exports[`ConfirmFooter should match snapshot with signature confirmation 1`] = `
+<div>
+  <div class="mm-box multichain-page-footer confirm-footer_page-footer mm-box--padding-4 mm-box--display-flex mm-box--gap-4 mm-box--flex-direction-column mm-box--width-full">
+    <div class="mm-box mm-box--display-flex mm-box--gap-4 mm-box--flex-direction-row">
+      <button
+        class="mm-box mm-text mm-button-base mm-button-base--size-lg mm-button-base--block 
+               mm-button-secondary mm-text--body-md-medium 
+               mm-box--padding-0 mm-box--padding-right-4 
+               mm-box--padding-left-4 
+               mm-box--display-inline-flex 
+               mm-box--justify-content-center 
+               mm-box--align-items-center 
+               mlm-color-text-default mlm-bg-background-muted mlm-rounded-xl"
+        data-testid="confirm-footer-cancel-button"
+      >
+        Cancel
+      </button>
+      <button
+        class="mm-box-mm-text-mm-button-base-mm-button-base__size-lg-mm-button-base__block-mm-button-primary-mm-text__body-md-medium
+                mmbox-padding_0 mmbox-padding_right_4 mmbox-padding_left_4 mmbox-display_inline_flex mmbox-align_items_center mbox-color_icon_inverse mbbox_background_color_icon_default mbbox_rounded_xl"
+        data-testid="confirm-footer-button"
+      >
+        Confirm
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`ConfirmFooter should match snapshot with transaction confirmation 1`] = exports[`ConfirmFooter should match snapshot with signature confirmation 1`];
