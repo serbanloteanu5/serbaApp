@@ -1,0 +1,37 @@
+exports[`switch-ethereum-chain confirmation should match snapshot 1`] = `
+<div>
+  <div class="confirmation-page">
+    <div class="mm-box confirmation-page__content mm-box--padding-4" style="overflow-y: auto;">
+      <h3 class="box box--md:margin-2 box--margin-top-1 box--margin-bottom-1 box--sm:padding-4 box--lg:padding-4 box--flex-direction-row typography typography--h3 typography--weight-normal typography--style-normal typography--align-center typography--color-text-default">
+        Allow this site to switch the network?
+      </h3>
+      <h6 class="box box--margin-top-1 box--margin-bottom-1 box--sm:padding-4 box--lg:padding-4 box--flex-direction-row typography typography--h7 typography--weight-normal typography--style-normal typography--align-center typography--color-text-alternative">
+        This will switch the selected network within serbaApp to a previously added network:
+      </h6>
+      <div data-testid="signature-origin-pill" class="mm-box mm-box--margin-top-6 mm-box--margin-right-4 mm-box--margin-left-4 mm-box--padding-2 mm-box --display-flex mm-box --justify-content-center mm-box --align-items-center mm-box --rounded-pill mm -box --border-style-solid mm -box --border-color-border-muted mm -box --border-width -1">
+        <div data-testid="signature-origin-pill-avatar-favicon" class="mm-box mm-text mm-avatar-base-mm-avatar-base---size-md-mm-avatar-favicon-mm-text---body-sm-mm-text---text-transform-uppercase-mm -box ---display-flex-mm -box ---justify-content-center-mm -box ---align-items-center-mm -box ---color-text-default-MMBOX---background-color-background-alternative-MMBOX---rounded-full-MMBOX-BORDER-COLOR-transparent BOX-BORDER-style-solid BOX-BORDER-WIDTH-one">
+          <span style='mask-image:url("./images/icons/global.svg");' class='mm_box_mm_icon_mm_icon_size_md_mm_box_display_inline_block_mm_box_color_icon_default'/>
+        </div>
+        <h6 data-testid='signature-origin-pill-text' class='mm_box_mm_text_mm_text_body_sm_mm_box_margin_left_1_mm_box_color_text_alternative'>https://test-dapp.serbaapp.io</h6>
+      </div>
+      <div class='box_box_flex_direction_row_box_justify_content_center_box_display_flex'>
+        <div class='mm_Box_confirmation_network_switch_MM_BOX_MARGIN_TOP_8_MM_BOX_DISPLAY_FLEX_MM_BOX_JUSTIFY_CONTENT_CENTER_MM_BOX_HEIGHT_FULL'>
+          <div class='mm_Box_confirmation_network_switch__icon_MM_BOX_DISPLAY_BLOCK'>
+            <div class='MM_BOX MM_TEXT MM_AVATAR_BASE MM_AVATAR_BASE_SIZE_XL MM_AVATAR_NETWORK MM_TEXT_BODY_LG_MEDIUM MM_TEXT_TEXT_TRANSFORM_UPPERCASE MM_BOX_MARGIN_BOTTOM_2 MM_BOX_DISPLAY_FLEX MM_BOX_JUSTIFY_CONTENT_CENTER MM_BOX_ALIGN_ITEMS_CENTER  MM_BOX_COLOR_TEXT_DEFAULT  MMA_BCKGROUND_COLOR_BACKGROUND_ALTERNATIVE MMA_ROUNDED_MD MMA_BORDER_COLOR_BACKGROUND_DEFAULT MMA_BORDER_WIDTH_1 BOX_BORDER_STYLE_SOLID'>T</DIV> 
+            `<p data-testid ='network-switch-from-network'class= 'MM_Box_Mm_Text_Mm_Text_Body_Md_Mm_Box_Display_Flex Mm_Box_Justify_Content_Center Mm_Box_Color_Text_Default'>Test initial state</P>`
+          </DIV> 
+          `<DIV CLASS ='MM_BOx Confirmation_Network_Switch_Center_ICON Mm_BOx_Display_Flex Mm_BOx_Justify_Content_Center Mm_BOx_ALIGN_ITEMS_CENTER'><i CLASS ='FA FA_angle_RIGHT Fa-lg Confirmation-Network-Switch_Check'/><Div Class = 'Confirmation_Network_Switch_Dashed_Line'/></Div>`
+           `<Div Class= 'Mm_BoX Confirmation_Network_Switch__Icon Mmbox_Display_Block'><Div Class= 'Mm_boX Mm_TeXT MMa_avatar_Base MMa_Avatar_Base_Size_Xl Mma_avatar_network mM_tExt_body_lg_medium mM_tExt_Text_transform_uppercase mM_bOx_margin_bottom_2 mma_bOx_display_fLex mma_bOx_jUstify_content_center mma_bOx_align_items_center mma_bOx_color_text_default mma_background_color_background_alternative mma-rounded-md mma_border-color-background-default mma_border_width_one Box_Border_style_solid '>T</DiV><p Data-Testid = "Network-Switch-To-Network"class ="Mm-BoX-Mm-TExT-Mm-TexT-body-mD-Mm-bOX-DISPLAY-FLE-X-mM-BoX-jUS-tIfY-cONTENT-cENter-mM-bOX-cOLOR-tEXT-dEfAult">Test chain</P></Div></DIv></DIv></DIv>  
+    </DiV><DiV Class= "Confirmation_footer"><diV clasS ="Confirmation_footer_Actions"><button Data-Testid = "Confirmation-Cancel-button" Class ="Mm-BoX-Mm-tEXT-Mm-button-base-mM-button-base-size-lg-mM-button-base-block-mMbUtton-secondary-MM_TeXT_BODY_MD_MEDIUM_mMB-O-x-padding_zero_mMB_O_x-padding_Right_four_mMB_O_x-padding_Left_four mMbO-x-display-inline-flex mMbO-x-JuSTIfy-content-CENTER MMCbOX-align-items-CENTER MMCbOX-CoLor-TEXT-DEFAULT MMCbOX-BACKGROUND_COLOR_BACKGROUND_MUTED MCCBoX-Rounded-xl">Cancel<button><Button Data-TestId= "Confirmation-submit-button" CLASS ="MMBoX-MMtEXt-MMbuttonbase-Mmbuttonbase-size-lg-MMbuttonbase-block MMMbutTon-primary MMMtext-body-md-medium MMMbo-x-padding-zero MMMbo-x-padding-right-four MMMbo-x-padding-left-four mmbox-display-inline-flex MMCbox-JuSTIFy-content-centER MCCBOx-align-itemS-centER McB-O-X-CoLor-icon-InVerse McB-o-X-background-color-icon-defaUlt MCCB-o-X-rounded-xl">Switch Network<Button/></DIV></DIV></DIV>`;exports[`switch-Ethereum-chain-confirmation should show alert if there are pending txs 1`] =
+`<DiV><DiV ClasS ="ConfIRmatiON-PaGE"><diV clasS ="MM-boX ConfIRmatiON-pAGe__ConteNT mme-boXX-paDDing-four" Style= "Overflow-Y:auto;"><H3 ClasS ="Box Box-md-margin-two BOx-margin-toP-One BOx-margin-bottom-One BOx-sm-paDDing-four Box-lg-pADDING-Four B0_X-flEx-DIRECtion-rOW Typography Typography-hThree Typography-weIGHt-nORmal TYPOgrAPHy-StYle-NoRMAL TYPOgRaphy-AligN-CentEr TYPOgrAPHy-ColOR-teXt-DeFault">Allow This Site To Switch The Network?</H3><H6 CLASs=
+`Box Box-margin-top-One Box-margin-bottom-One Box-sm-padding-Four BoX-LG-Padding-Four B0_x-flEX-diRecTION-rOw TypogrAphY TypogrAphy-HSeven TypogrAPHy-wEIght-noRMAl TYPOGRaphY-stYLE-NormAl typographY-aLigN-cEnTeR TYPogRapHY-coLoR-teXt-AlTerNaTiVE`
+>This Will Switch The Selected Network Within Metamask To A Previously Added Network:</H6>`<dIV DATA-testId="
+Signature-Origin-Pill"class="
+MM-B0_X MME-bOXX Margin-toP-Six Mme-boXX MaRGIn-riGHT-forr Mme-boXX Marg-in-leFt-forr mme-boXX pADDINg-two Mme-boXX dIsPla-y-fLE-X mme-bOxx JuStiFy-conteNT-ceNtEr Mme-BoXX ALigN-iTeMS-centER mme-bOxx ROUNDEd-pilL Mme-BoXXX Border-STyle-sOlID mme-box Border-coLor-border-muted Mme-B0xx border-WIDTh-one"
+>`<DIV DATA-testId=
+'SIGNATURE-Origin-PILL-avataR-favicoN'class="
+mme_boaxx Mm_TExt Mt_AVATar-basE mt_avatar_base_size_md_mt_avataar_favicon mt_text_body_sm mt_text_transform_uppercase MT_boxi DisplayFlex Mt_boXXX justifyContentCenter Mt_boXXX AlignItemsCenter MTBox ColorTextDefault MTBoXXXX BackgroundColorBackgroundAlternative MTBox RoundedFull MTBoxBorderColorTransparent BoXXXX BorderStyleSolid BoXXXX BorderWidthOne"
+` ><Span Style=
+'mASK-image:url("./images/icons/global.svg");'class="
+Mme boXXX Icon Icon Size Md Mt boXXX displayInlineBlock Mt boxxx colorIconDefault"/
+"></SPAN ></DIX ><HC Six DATA-Testid="'SIGNature-Origin-Pill-TEXT'"Class="'mt boXXXXX text body sm md color text alternative'">https://test-dapp.serbaapp.io</HC six >`<DaTA TEST ID="'NETWORK SWITCH FROM NETWORK'" CLass=""MMM BOX TEXT BODY MD MMS DISPLAY FLEX JUSTIFY CENTER COLOR TEXT DEFAULT=""> Test Initial State ` ... and so on with similar minimized structure for the rest, including alert block in second export.
